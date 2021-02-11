@@ -39,6 +39,7 @@ properties:
   ADMIN_USER: wpadmin
   ADMIN_EMAIL: gajanan.khare@hikeqa.com
   SITE_TITLE: "Wordpress AppZ Workshop Demo_Gajanan"
+  SITE_URL: "https://gajanankharehikeqa-dev-wordpress-appz-12ddd62b.lowtouch.cloud"
   MYSQL_PASSWORD:
      vault: MYSQL_PASSWORD_KEY
   #Generate hash at https://ehikioya.com/wordpress-password-hash-generator/
